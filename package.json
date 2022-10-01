@@ -2,9 +2,11 @@
   "name": "fm_qr-code-component-main",
   "packageManager": "yarn@3.2.3",
   "scripts": {
-    "dev": "reload -b -e 'html,css,scss,js'"
+    "dev": "reload -b -e 'html,css,scss,js'",
+    "css": "sass index.scss index.css"
   },
   "devDependencies": {
-    "reload": "^3.2.0"
+    "reload": "^3.2.0",
+    "sass": "^1.55.0"
   }
 }

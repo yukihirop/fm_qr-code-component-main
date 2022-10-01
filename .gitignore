@@ -16,3 +16,4 @@
 .prettierignorenode_modules
 .yarn
 node_modules
+*.map
