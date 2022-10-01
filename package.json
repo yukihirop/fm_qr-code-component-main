@@ -1,0 +1,10 @@
+{
+  "name": "fm_qr-code-component-main",
+  "packageManager": "yarn@3.2.3",
+  "scripts": {
+    "dev": "reload -b -e 'html,css,scss,js'"
+  },
+  "devDependencies": {
+    "reload": "^3.2.0"
+  }
+}
